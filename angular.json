@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "todo"
+  "defaultProject": "todo",
+  "cli": {
+    "analytics": "272c2fba-923b-4efd-b9e8-a465c0a0d179"
+  }
 }
